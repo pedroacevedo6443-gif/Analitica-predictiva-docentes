@@ -1,0 +1,4 @@
+Conjunto,Observaciones,% de la muestra,Primer mes,Último mes,Precio medio (USD),Precio mín–máx (USD),Desv. est. cambio log (%)
+Train,39,79.59,oct-2022,dic-2025,16.76,3.76–69.76,25.44
+Test,10,20.41,ene-2026,oct-2026,81.0,63.92–143.48,28.72
+Total,49,100.0,oct-2022,oct-2026,29.87,3.76–143.48,25.98
