@@ -1,0 +1,4 @@
+Rezago (meses),Correlación (Pearson),ACF muestral (statsmodels)
+1,0.034,0.0337
+2,-0.0516,-0.0508
+3,-0.2048,-0.2

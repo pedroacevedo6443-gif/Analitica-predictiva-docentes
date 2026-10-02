@@ -1,0 +1,4 @@
+Rezago (meses),Pares usados,Correlación Y_t vs Y_t-k (Pearson),ACF muestral (statsmodels)
+1,48,0.9058,0.8849
+2,47,0.8188,0.7792
+3,46,0.8057,0.7484

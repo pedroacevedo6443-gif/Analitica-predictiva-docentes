@@ -1,0 +1,10 @@
+Elemento,Descripción
+Variable analizada,"Precio de cierre de la acción de Rocket Lab USA, Inc. (columna «Cierre»)"
+Qué representa una observación,"Precio de cierre de la acción RKLB al final de un mes de negociación (la fecha es la etiqueta del mes, día 1)"
+Unidades,Dólares estadounidenses por acción (USD)
+Frecuencia,Mensual
+Periodo,oct-2022 a oct-2026
+Número de observaciones,49 meses
+Fuente de los datos,"Archivo «Datos históricos RKLB» (CSV) proporcionado por el equipo; formato de exportación tipo Investing.com (Fecha, Cierre, Apertura, Máximo, Mínimo, Vol., % var.). Enlace exacto: [completar]"
+Mercado / emisor,Nasdaq (ticker RKLB)
+Fecha de consulta,2 de octubre de 2026
